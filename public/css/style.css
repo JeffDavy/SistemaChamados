@@ -1,0 +1,11 @@
+body {
+    background-color: #f8f5f5;
+}
+#botoesControle {
+    text-align: right;
+    margin-right: 3vh;
+}
+
+.card {
+    margin-top: 5vh;
+}
